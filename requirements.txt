@@ -1,0 +1,7 @@
+ray
+numpy
+pandas
+pyarrow
+sentence-transformers
+opensearch-py
+psycopg2
