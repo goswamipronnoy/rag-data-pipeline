@@ -1,7 +1,7 @@
 # RAG Data Ingestion Pipeline
 
 ## Overview
-This project implements a **Retrieval Augmented Generation (RAG) data ingestion pipeline** using **Ray, OpenSearch, and PostgreSQL with pgvector** for large-scale ML workloads.
+This project implements a Retrieval Augmented Generation (RAG) data ingestion pipeline** using Ray, OpenSearch, and PostgreSQL with pgvector for large-scale ML workloads.
 
 ## Project Structure:
 
@@ -23,9 +23,9 @@ rag-data-ingestion-pipeline/
 ```
 
 ## Features
-- **Efficient embedding generation** using distributed processing
-- **Storage in OpenSearch for ANN retrieval**
-- **Storage in PostgreSQL with pgvector for k-NN searches**
+- Efficient embedding generation using distributed processing
+- Storage in OpenSearch for ANN retrieval
+- Storage in PostgreSQL with pgvector for k-NN searches
 
 ## Setup
 ### 1. Install dependencies
